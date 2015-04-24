@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'UbuntuRegular';
+    src: url('http://pellegrinipage.com/wp-content/themes/whiteboard/fonts/Ubuntu-R-webfont.eot');
+    src: url('http://pellegrinipage.com/wp-content/themes/whiteboard/fonts/Ubuntu-R-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://pellegrinipage.com/wp-content/themes/whiteboard/fonts/Ubuntu-R-webfont.woff') format('woff'),
+         url('http://pellegrinipage.com/wp-content/themes/whiteboard/fonts/Ubuntu-R-webfont.ttf') format('truetype'),
+         url('http://pellegrinipage.com/wp-content/themes/whiteboard/fonts/Ubuntu-R-webfont.svg#UbuntuRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ArizoniaRegular';
+    src: url('http://pellegrinipage.com/wp-content/themes/whiteboard/fonts/Arizonia-Regular-OTF-webfont.eot');
+    src: url('http://pellegrinipage.com/wp-content/themes/whiteboard/fonts/Arizonia-Regular-OTF-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://pellegrinipage.com/wp-content/themes/whiteboard/fonts/Arizonia-Regular-OTF-webfont.woff') format('woff'),
+         url('http://pellegrinipage.com/wp-content/themes/whiteboard/fonts/Arizonia-Regular-OTF-webfont.ttf') format('truetype'),
+         url('http://pellegrinipage.com/wp-content/themes/whiteboard/fonts/Arizonia-Regular-OTF-webfont.svg#ArizoniaRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,76 @@
+/*
+Theme Name: Pellegrini2014
+Theme URI: http://pellegrinipage.com
+Description: Pellegrini Family Website
+Version: 1.0
+Author: Michael Pellegrini
+Author URI: http://pellegriniportfolio.com
+*/
+html, body {
+    margin-top: 10px!important; }
+
+body {
+    font-family: 'Lato', 'Helvetica-Neue', Helvetica, sans-serif;
+    font-weight: 400; }
+
+p {
+    font-size: 17px; }
+
+a {
+    font-family: 'Lato', 'Helvetica-Neue', Helvetica, sans-serif;
+    font-weight: 500; }
+
+h1, h1 > a, h2, h2 > a, h3, h3 > a, h4, h4 > a, h5, h5 > a {
+    font-family: 'Cherry Cream Soda', cursive; }
+
+h6, b, strong {
+    font-family: 'Lato', 'Helvetica-Neue', Helvetica, sans-serif;
+    font-weight: 700; }
+
+.chromeframe {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+.right {
+    float: right; }
+
+.left {
+    float: left; }
+
+.search-form {
+    float: right;
+    padding-right: 0; }
+
+.slick-slider {
+    display: none; }
+
+.button {
+    padding-left: 1rem;
+    padding-right: 1rem; }
+
+article img {
+    border-radius: 5px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2); }
+
+aside {
+    display: none; }
+
+@media only screen and (min-width: 64.063em) {
+    aside {
+        display: block; }
+}
+
+@media only screen and (min-width: 40.063em) {
+    html, body {
+        margin-top: 0!important; }
+
+    .slick-slider {
+        display: block; }
+
+    .button {
+        padding-left: 2rem;
+        padding-right: 2rem; }
+}
