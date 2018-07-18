@@ -6,6 +6,15 @@
 	background-color: #cc4b37;
 }
 
+.bg-blue {
+	background-color: #1c77c3;
+}
+
+.subheading {
+	font-size: 18px;
+	font-weight: 700;
+}
+
 .text-white {
 	color: white;
 }
